@@ -1,0 +1,7 @@
+son el mecanismo técnico con el que modelo entidad relación respecta y hace cumplir las reglas de negocio, pero la fuente de verdad y la lógico proviene siempre de la operación del sistema 
+
+
+
+
+
+JAIRO MATERIA DE MIERDA 
